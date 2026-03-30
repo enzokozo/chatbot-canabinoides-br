@@ -1,0 +1,13 @@
+# Segurança e Dados Sensíveis
+.env
+data/
+
+# Ambientes Virtuais
+venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
